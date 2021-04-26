@@ -1019,9 +1019,10 @@
     into-stream "^4.0.0"
     lodash "^4.17.4"
 
-"@types/adm-zip@0.4.32":
-  version "0.4.32"
-  resolved "https://registry.yarnpkg.com/@types/adm-zip/-/adm-zip-0.4.32.tgz#6de01309af60677065d2e52b417a023303220931"
+"@types/adm-zip@0.4.34":
+  version "0.4.34"
+  resolved "https://registry.yarnpkg.com/@types/adm-zip/-/adm-zip-0.4.34.tgz#62ac859eb2af6024362a1b3e43527ab79e0c624e"
+  integrity sha512-8ToYLLAYhkRfcmmljrKi22gT2pqu7hGMDtORP1emwIEGmgUTZOsaDjzWFzW5N2frcFRz/50CWt4zA1CxJ73pmQ==
   dependencies:
     "@types/node" "*"
 
